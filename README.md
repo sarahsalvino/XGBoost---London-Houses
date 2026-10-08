@@ -120,7 +120,7 @@ Melhores parâmetros encontrados:
 
 ### Interpretação
 
-O modelo base atingiu R2 de 0.734, explicando 73.4% da variacao nos preços. O erro
+O modelo base atingiu R2 de 0.734, explicando 73.4% da variação nos preços. O erro
 médio de £356,372 em imóveis entre £500k e £2.5M representa um erro de aproximadamente
 19-20%, esperado para um dataset com alta variabilidade de preços em diferentes
 bairros de Londres.
