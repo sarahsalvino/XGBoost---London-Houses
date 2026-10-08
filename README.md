@@ -8,7 +8,7 @@ otimização de hiperparametros.
 
 ## Objetivo
 
-Estudar o funcionamento do modelo XGBoost e seus parametros aplicados a um problema real
+Estudar o funcionamento do modelo XGBoost e seus parâmetros aplicados a um problema real
 de regressão, e explorar a otimização de hiperparametros com RandomizedSearch como
 estudo complementar.
 
@@ -128,7 +128,7 @@ bairros de Londres.
 O RandomizedSearch entregou melhora marginal em todas as métricas, com o R2 subindo
 de 0.734 para 0.737. A proximidade dos resultados indica que o modelo base já estava
 bem configurado, e que aumentar n_iter no RandomizedSearch poderia explorar melhor
-o espaco de parametros.
+o espaco de parâmetros.
 
 ---
 
